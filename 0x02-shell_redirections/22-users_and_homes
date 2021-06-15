@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo cat /etc/passwd
+sudo cut -f 1,7 /etc/passwd
