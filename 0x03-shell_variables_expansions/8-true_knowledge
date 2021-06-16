@@ -1,0 +1,2 @@
+#!/bin/bash
+num1=128; result=$((num1+TRUEKNOWLEDGE)); echo $result
